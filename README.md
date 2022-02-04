@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ```Hey there!, I’m Alex.```
+# ```Hey there!, I’m Juan Camilo.```
 
-* :godmode: I’m interested in **Programming** and **Art**
+* :godmode: I’m interested in **Programming** and **VideoGames**
 * * :feelsgood: How to reach me? If you like my repos, you would contact me by _**[e-mail](mailto:juancamilogjnt@gmail.com)**_ or _**[linkedin](https://www.linkedin.com/in/juancamilogj/)**_
 <!---
 * :suspect: I’m currently learning English, Web Development, git, frameworks and other stuff
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/juancamilogj"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancamilogj&hide=html,scss,css,shell&langs_count=10&layout=compact&theme=gruvbox">
   <a href="https://github.com/juancamilogj"><img width="800" src="https://github-profile-trophy.vercel.app/?username=juancamilogj&row=1&column=5&theme=gruvbox">
 </p>
-        
+ <!--       
 ## My repos
     
 <p align="left">
@@ -42,7 +42,8 @@ Here are some ideas to get you started:
           <a href="https://github.com/alexdeassis7/SwaggerSpingBootMavenHibernate"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexdeassis7&repo=SwaggerSpingBootMavenHibernate&langs_count=10&layout=compact&theme=gruvbox">
                <a href="https://github.com/alexdeassis7/SpringBootRESTAPIMavenMongoDB"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexdeassis7&repo=SpringBootRESTAPIMavenMongoDB&langs_count=10&layout=compact&theme=gruvbox">
                     <a href="https://github.com/alexdeassis7/SystemAdminUserJavaUTN"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexdeassis7&repo=SystemAdminUserJavaUTN&langs_count=10&layout=compact&theme=gruvbox">
-</p>  
+</p> 
+ -->
    <!---    
 ## My Works
  
